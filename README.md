@@ -13,7 +13,7 @@ A Nova field for uploading File, Image and Video using [Filepond](https://github
 You can install the package via composer:
 
 ```
-composer require digital-creative/nova-filepond
+composer require remocodebe/laravelnova-filepond
 ```
 
 # Usage
