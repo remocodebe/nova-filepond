@@ -1,5 +1,5 @@
 {
-    "name": "digital-creative/nova-filepond",
+    "name": "remocodebe/nova-filepond",
     "description": "A Nova field for uploading File, Image and Video using filepond.",
     "keywords": [
         "file",
@@ -9,12 +9,7 @@
         "nova",
         "field",
         "doka"
-    ],
-    "authors": [
-        {
-            "name": "Rafael Milewski"
-        }
-    ],
+    ],]
     "license": "MIT",
     "require": {
         "php": ">=7.1.0"
