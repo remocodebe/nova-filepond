@@ -1,5 +1,5 @@
 {
-    "name": "remocodebe/nova-filepond",
+    "name": "remocodebe/laravelnova-filepond",
     "description": "A Nova field for uploading File, Image and Video using filepond.",
     "keywords": [
         "file",
